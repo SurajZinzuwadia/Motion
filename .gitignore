@@ -1,0 +1,33 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Optional npm cache directory
+.npm
+
+# Environment variables file
+.env
+
+# Production build directory
+build/
+
+# Dependency directories
+coverage/
+
+# Testing libraries
+.nyc_output/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
